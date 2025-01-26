@@ -63,14 +63,14 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjesh-vadadoria&theme=dark" />
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjesh-vadadoria&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjesh-vadadoria&theme=dark" />
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjesh-vadadoria&theme=tokyonight" />
 </p>
 
 <div align="center">
 
-   <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjesh-vadadoria&theme=dark" />
+   <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjesh-vadadoria&theme=tokyonight" />
 
 <br>
 <br>
