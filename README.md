@@ -18,12 +18,12 @@
 
   <br>
 
-<h3 align="center"> ❤️ Support me</h3>
-<p align="center">
-  <a href="https://ko-fi.com/arjeshvadadoriya"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/arjeshvadadoriya"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://paypal.me/arjeshvadadoriya"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+//<h3 align="center"> ❤️ Support me</h3>
+//<p align="center">
+//  <a href="https://ko-fi.com/arjeshvadadoriya"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+//  <a href="https://buymeacoffee.com/arjeshvadadoriya"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+//  <a href="https://paypal.me/arjeshvadadoriya"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+//</p>
 
 <br>
 
